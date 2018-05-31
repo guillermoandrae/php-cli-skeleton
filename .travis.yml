@@ -13,5 +13,5 @@ script:
   - composer test
 env:
   global:
-    - APP_ENV=local
+    - APP_ENV=test
     - APP_DEBUG=true
