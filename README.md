@@ -1,2 +1,2 @@
-# php-cli-skeleton
-Skeleton for PHP CLI projects.
+# PHP CLI Skeleton
+[![Travis](https://img.shields.io/travis/guillermoandrae/php-cli-skeleton.svg?style=flat-square)](https://travis-ci.org/guillermoandrae/php-cli-skeleton) [![Coveralls](https://img.shields.io/coveralls/guillermoandrae/php-cli-skeleton.svg?style=flat-square)](https://coveralls.io/github/guillermoandrae/php-cli-skeleton) [![approval](https://img.shields.io/badge/approved%20by-your%20mom-green.svg?style=flat-square)](https://guillermoandraefisher.com)
