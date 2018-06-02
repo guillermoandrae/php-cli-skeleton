@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "123246a41d42b46e72e942dd87252f34",
+    "content-hash": "96de60ae9242b2af24cd97c5a4192616",
     "packages": [
         {
             "name": "guillermoandrae/php-repository",
