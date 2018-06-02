@@ -11,6 +11,9 @@ install:
   - composer install --no-interaction --prefer-source
 script:
   - composer test
+after_success:
+  - wget https://scrutinizer-ci.com/ocular.phar
+  - php ocular.phar code-coverage:upload --format=php-clover ./clover.xml
 env:
   global:
     - APP_ENV=test

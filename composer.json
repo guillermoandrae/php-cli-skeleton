@@ -2,6 +2,7 @@
     "name": "guillermofisher/php-cli-skeleton",
     "description": "Skeleton for PHP CLI projects.",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Guillermo A. Fisher",
@@ -14,7 +15,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "vlucas/phpdotenv": "^2.4",
         "icanboogie/inflector": "^1.4",
-        "php-coveralls/php-coveralls": "^2.1"
+        "guillermoandrae/php-repository": "dev-master"
     },
     "autoload": {
         "psr-4": {
